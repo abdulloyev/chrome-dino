@@ -1,0 +1,18 @@
+/// **** #1 **** ///
+
+Runner () .tRex.groundYPos = -60;
+Runner ().setSpeed (40);
+
+t.insertAdjacentHTML('beforebegin', `<img id="wings" src="https://i.gifer.com/origin/80/809f5c2aab51871f3544d24b9b88ce23_w200.gif" />
+<style> #wings { width: 65px; position: absolute; top:115px; z-index: 10; left: 150px; </style>
+`);
+
+
+/// **** #2 **** ///
+
+Runner () .tRex.groundYPos = -60;
+Runner ().setSpeed (40);
+
+t.insertAdjacentHTML('beforebegin', `<img id="wings" src="https://cdn.twibooru.org/img/2020/7/13/453907/full.gif" />
+<style> #wings { width: 65px; position: absolute; top:115px; z-index: 10; left: 150px; </style>
+`);
